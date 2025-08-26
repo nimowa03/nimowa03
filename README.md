@@ -1,12 +1,3 @@
-📋 Skills
-Programming Languages/Database
-
-    
-ML/DL
-
-     
-Frameworks, Servers and Libraries
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c62a2a,100:752ee0&height=180&text=&animation=fadeIn&fontColor=a13056&fontSize=50" />
     </div>
@@ -30,19 +21,13 @@ Frameworks, Servers and Libraries
     <div style="text-align: left;"> <a href=https://www.notion.so/93162927f6f84971a824b282cadc8e52> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/93162927f6f84971a824b282cadc8e52"> </a>
          <a href=mailto:nimowa03@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nimowa03@gmail.com"> </a>
           </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnimowa03%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
+    <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=nimowa03&custom_title=nimowa03's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimowa03&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
-    </div>
-    
-
-    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/nimowa03/github-readme-stats)
-
+    </div> 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{nimowa03}?pet-id=1" width="1000" height="120"/>
 </a>
