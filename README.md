@@ -27,7 +27,3 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=nimowa03&custom_title=nimowa03's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimowa03&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
-    </div> 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{nimowa03}?pet-id=1" width="1000" height="120"/>
-</a>
