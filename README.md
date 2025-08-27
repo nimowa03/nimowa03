@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20There!&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+%2F+Business+%2F+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+%2F+Business+%2F+Data+Science)](https://git.io/typing-svg)
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 혁신가와 창업가 마인드셋을 가진</li> 데이터 사이언티스트가 되고싶습니다!  </div> 
     </div>
