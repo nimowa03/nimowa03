@@ -21,12 +21,9 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
-    </div>
     <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{nimowa03}?pet-id=1" width="1000" height="120"/>
 </a>
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{username}"/>
 </a>
