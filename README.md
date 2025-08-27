@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+%2F+Business+%2F+Data+Science)](https://git.io/typing-svg)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20There!&animation=&fontColor=000000&fontSize=50" />
     </div>
