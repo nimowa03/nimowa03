@@ -1,5 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20There!&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:da34c4,100:88dce2&height=180&text=Charlee'%20s%20GitHub&animation=&fontColor=dfa3ff&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align: left;">
         
@@ -15,6 +19,7 @@
         <br/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
         <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
         </div>
 </div>
 <div style="text-align: left;">
