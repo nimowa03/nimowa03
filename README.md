@@ -31,5 +31,10 @@
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{nimowa03}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nimowa03&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/nimowa03"
+  width="600"
+  height="300"
+/>
+</a>
