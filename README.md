@@ -1,20 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+%2F+Data+%2F+Business)](https://git.io/typing-svg)
 
-## 👀 About Me
-
-<div align="center">
-
-<h3>🔥 I aim to become an <span style="color:#ffa500;">AI Engineer</span>.</h3>
-<h3>🤖 Passionate about <span style="color:#00bfff;">AI agents & automation</span></h3>
-<h3>🚀 From idea to end-to-end agentic products</h3>
-
-</div>
-
-<p align="center">
-Building solutions in AI, data, and product domains—<br>
-focused on data-driven, human-in-the-loop problem solving and rapid prototyping.
-</p>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
 
